@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100" role="img" aria-label="Language distribution across public repositories: C# 31% · Python 21% · Rust 18% · JavaScript 18% · QML 9% · Other 5%">
+  <title>Language distribution across public repositories — C# 31% · Python 21% · Rust 18% · JavaScript 18% · QML 9% · Other 5%</title>
+  <style>
+    text{font-family:ui-monospace,"SFMono-Regular","SF Mono","Cascadia Mono","Roboto Mono","Liberation Mono",Menlo,Consolas,monospace}
+    .pct{font-size:12px;font-weight:600;fill:#B9C4CF}
+    .lbl{font-size:11px;font-weight:500;fill:#B9C4CF;opacity:.72}
+    .seg{transform-origin:left center;animation:grow .9s cubic-bezier(.22,.61,.36,1) backwards}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){.seg{animation:none}}
+  </style>
+  <rect class="seg" x="0.0" y="16" width="167.7" height="10" rx="5.0" fill="#C99A3F" style="animation-delay:0.00s"/>
+  <rect class="seg" x="170.7" y="16" width="114.5" height="10" rx="5.0" fill="#6E8FB8" style="animation-delay:0.07s"/>
+  <rect class="seg" x="288.2" y="16" width="95.6" height="10" rx="5.0" fill="#B4763A" style="animation-delay:0.14s"/>
+  <rect class="seg" x="386.8" y="16" width="95.5" height="10" rx="5.0" fill="#4E6C8E" style="animation-delay:0.21s"/>
+  <rect class="seg" x="485.3" y="16" width="46.8" height="10" rx="5.0" fill="#7D8A99" style="animation-delay:0.28s"/>
+  <rect class="seg" x="535.1" y="16" width="24.9" height="10" rx="5.0" fill="#39434F" style="animation-delay:0.35s"/>
+  <rect x="0" y="48" width="9" height="9" rx="2.5" fill="#C99A3F"/>
+  <text class="pct" x="17" y="56">30.8%</text>
+  <text class="lbl" x="63" y="56">C#</text>
+  <rect x="192" y="48" width="9" height="9" rx="2.5" fill="#6E8FB8"/>
+  <text class="pct" x="209" y="56">21.0%</text>
+  <text class="lbl" x="255" y="56">Python</text>
+  <rect x="384" y="48" width="9" height="9" rx="2.5" fill="#B4763A"/>
+  <text class="pct" x="401" y="56">17.5%</text>
+  <text class="lbl" x="447" y="56">Rust</text>
+  <rect x="0" y="76" width="9" height="9" rx="2.5" fill="#4E6C8E"/>
+  <text class="pct" x="17" y="84">17.5%</text>
+  <text class="lbl" x="63" y="84">JavaScript</text>
+  <rect x="192" y="76" width="9" height="9" rx="2.5" fill="#7D8A99"/>
+  <text class="pct" x="209" y="84">8.6%</text>
+  <text class="lbl" x="255" y="84">QML</text>
+  <rect x="384" y="76" width="9" height="9" rx="2.5" fill="#39434F"/>
+  <text class="pct" x="401" y="84">4.6%</text>
+  <text class="lbl" x="447" y="84">Other</text>
+</svg>
