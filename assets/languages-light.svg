@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100" role="img" aria-label="Language distribution across public repositories: C# 31% · Python 21% · Rust 18% · JavaScript 18% · QML 9% · Other 5%">
-  <title>Language distribution across public repositories — C# 31% · Python 21% · Rust 18% · JavaScript 18% · QML 9% · Other 5%</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 100" width="560" height="100" role="img" aria-label="Language distribution across public repositories: C# 29% · Python 25% · Rust 17% · JavaScript 17% · QML 8% · Other 4%">
+  <title>Language distribution across public repositories — C# 29% · Python 25% · Rust 17% · JavaScript 17% · QML 8% · Other 4%</title>
   <style>
     text{font-family:ui-monospace,"SFMono-Regular","SF Mono","Cascadia Mono","Roboto Mono","Liberation Mono",Menlo,Consolas,monospace}
     .pct{font-size:12px;font-weight:600;fill:#3C4854}
@@ -8,28 +8,28 @@
     @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
     @media (prefers-reduced-motion:reduce){.seg{animation:none}}
   </style>
-  <rect class="seg" x="0.0" y="16" width="167.7" height="10" rx="5.0" fill="#9A7222" style="animation-delay:0.00s"/>
-  <rect class="seg" x="170.7" y="16" width="114.5" height="10" rx="5.0" fill="#4A6F9B" style="animation-delay:0.07s"/>
-  <rect class="seg" x="288.2" y="16" width="95.6" height="10" rx="5.0" fill="#8A5626" style="animation-delay:0.14s"/>
-  <rect class="seg" x="386.8" y="16" width="95.5" height="10" rx="5.0" fill="#35506D" style="animation-delay:0.21s"/>
-  <rect class="seg" x="485.3" y="16" width="46.8" height="10" rx="5.0" fill="#5A6672" style="animation-delay:0.28s"/>
-  <rect class="seg" x="535.1" y="16" width="24.9" height="10" rx="5.0" fill="#9AA7B4" style="animation-delay:0.35s"/>
+  <rect class="seg" x="0.0" y="16" width="159.2" height="10" rx="5.0" fill="#9A7222" style="animation-delay:0.00s"/>
+  <rect class="seg" x="162.2" y="16" width="136.3" height="10" rx="5.0" fill="#4A6F9B" style="animation-delay:0.07s"/>
+  <rect class="seg" x="301.6" y="16" width="90.7" height="10" rx="5.0" fill="#8A5626" style="animation-delay:0.14s"/>
+  <rect class="seg" x="395.3" y="16" width="90.7" height="10" rx="5.0" fill="#35506D" style="animation-delay:0.21s"/>
+  <rect class="seg" x="489.0" y="16" width="44.4" height="10" rx="5.0" fill="#5A6672" style="animation-delay:0.28s"/>
+  <rect class="seg" x="536.3" y="16" width="23.7" height="10" rx="5.0" fill="#9AA7B4" style="animation-delay:0.35s"/>
   <rect x="0" y="48" width="9" height="9" rx="2.5" fill="#9A7222"/>
-  <text class="pct" x="17" y="56">30.8%</text>
+  <text class="pct" x="17" y="56">29.2%</text>
   <text class="lbl" x="63" y="56">C#</text>
   <rect x="192" y="48" width="9" height="9" rx="2.5" fill="#4A6F9B"/>
-  <text class="pct" x="209" y="56">21.0%</text>
+  <text class="pct" x="209" y="56">25.0%</text>
   <text class="lbl" x="255" y="56">Python</text>
   <rect x="384" y="48" width="9" height="9" rx="2.5" fill="#8A5626"/>
-  <text class="pct" x="401" y="56">17.5%</text>
+  <text class="pct" x="401" y="56">16.6%</text>
   <text class="lbl" x="447" y="56">Rust</text>
   <rect x="0" y="76" width="9" height="9" rx="2.5" fill="#35506D"/>
-  <text class="pct" x="17" y="84">17.5%</text>
+  <text class="pct" x="17" y="84">16.6%</text>
   <text class="lbl" x="63" y="84">JavaScript</text>
   <rect x="192" y="76" width="9" height="9" rx="2.5" fill="#5A6672"/>
-  <text class="pct" x="209" y="84">8.6%</text>
+  <text class="pct" x="209" y="84">8.1%</text>
   <text class="lbl" x="255" y="84">QML</text>
   <rect x="384" y="76" width="9" height="9" rx="2.5" fill="#9AA7B4"/>
-  <text class="pct" x="401" y="84">4.6%</text>
+  <text class="pct" x="401" y="84">4.3%</text>
   <text class="lbl" x="447" y="84">Other</text>
 </svg>
