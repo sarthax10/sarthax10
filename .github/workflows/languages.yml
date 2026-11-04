@@ -1,4 +1,4 @@
-# Keeps assets/languages-*.svg in step with what's actually in the repos.
+# Keeps assets/languages.svg in step with what's actually in the repos.
 name: refresh language chart
 
 on:
@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/languages-dark.svg assets/languages-light.svg
+          git add assets/languages.svg
           git diff --staged --quiet || git commit -m "chore: refresh language chart"
           git push

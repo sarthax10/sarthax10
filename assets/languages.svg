@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 292" width="900" height="292" role="img" aria-label="Languages across my public repositories: Python 25%, TypeScript 23%, JavaScript 17%, CSS 12%, MDX 6%, Other 16%">
+<title>Languages across my public repositories: Python 25%, TypeScript 23%, JavaScript 17%, CSS 12%, MDX 6%, Other 16%</title>
+<g transform="rotate(-.5 450.0 146.0)">
+<rect x="20" y="24" width="860" height="244" fill="#14121633" transform="translate(5 7)"/>
+<rect x="20" y="24" width="860" height="244" fill="#F3EDE1"/>
+<rect x="398.0" y="10" width="104" height="30" fill="#E9D79A" fill-opacity=".8" transform="rotate(-3 450.0 25)"/>
+<text x="44" y="88" fill="#141216" font-family="'Arial Black','Segoe UI Black',Impact,system-ui,sans-serif" font-size="31" font-weight="900">What my repos are made of</text>
+<rect x="44.0" y="118" width="203.2" height="40" fill="#CC1126"/>
+<rect x="250.2" y="118" width="181.6" height="40" fill="#141216"/>
+<rect x="434.8" y="118" width="138.4" height="40" fill="#8F0B1B"/>
+<rect x="576.2" y="118" width="97.0" height="40" fill="#5A5560"/>
+<rect x="676.2" y="118" width="48.5" height="40" fill="#B5A88F"/>
+<rect x="727.7" y="118" width="125.3" height="40" fill="#E0D4BC"/>
+<rect x="44.0" y="184" width="18" height="18" fill="#CC1126" stroke="#141216" stroke-width="2"/>
+<text x="72.0" y="199" fill="#141216" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">Python <tspan font-weight="400">25.4%</tspan></text>
+<rect x="314.7" y="184" width="18" height="18" fill="#141216" stroke="#141216" stroke-width="2"/>
+<text x="342.7" y="199" fill="#141216" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">TypeScript <tspan font-weight="400">22.7%</tspan></text>
+<rect x="585.3" y="184" width="18" height="18" fill="#8F0B1B" stroke="#141216" stroke-width="2"/>
+<text x="613.3" y="199" fill="#141216" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">JavaScript <tspan font-weight="400">17.4%</tspan></text>
+<rect x="44.0" y="222" width="18" height="18" fill="#5A5560" stroke="#141216" stroke-width="2"/>
+<text x="72.0" y="237" fill="#141216" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">CSS <tspan font-weight="400">12.3%</tspan></text>
+<rect x="314.7" y="222" width="18" height="18" fill="#B5A88F" stroke="#141216" stroke-width="2"/>
+<text x="342.7" y="237" fill="#141216" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">MDX <tspan font-weight="400">6.3%</tspan></text>
+<rect x="585.3" y="222" width="18" height="18" fill="#E0D4BC" stroke="#141216" stroke-width="2"/>
+<text x="613.3" y="237" fill="#141216" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">Other <tspan font-weight="400">15.8%</tspan></text>
+</g>
+</svg>
